@@ -19,7 +19,8 @@ restaurante_app/
 │   ├── __init__.py
 │   └── restaurante.py
 └── main.py
-README.md ```
+README.md
+```
 
 Responsabilidad de cada Clase y Archivo
 modelos/__init__.py y servicios/__init__.py: Archivos vacíos obligatorios requeridos para inicializar y reconocer las carpetas como paquetes modulares en Python.
